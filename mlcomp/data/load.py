@@ -1,3 +1,7 @@
+"""
+This module is used for loading the datasets from CSV. The CSV-Files are integrated into the library.
+"""
+
 import pandas as pd
 import os
 
